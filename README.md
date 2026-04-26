@@ -65,6 +65,15 @@ The datasbase was designed using:
 
 ## Screenshots
 
+### Home Page
+![Home Page](screenshots/home.png)
+
+### Add Artists
+![Add Artist](screenshots/add_artists.png)
+
+### Top Three Artists by Sales
+![Top Three Artists by Sales](screenshots/top_3_artists.png)
+
 ## Notes
  - This project was orginally hosted on the University of Arkansas Turing server
  - A live demo is not publicly available, but full source code and setup instructions are included
